@@ -1,4 +1,9 @@
-﻿using MvvmCross;
+﻿//
+// Source: https://github.com/MvvmCross/MvvmCross/blob/develop/MvvmCross/Platforms/Wpf/Views/MvxWpfView.cs
+// From: https://stackoverflow.com/a/63314896
+//
+
+using MvvmCross;
 using MvvmCross.Binding.BindingContext;
 using MvvmCross.Platforms.Wpf.Views;
 using MvvmCross.ViewModels;

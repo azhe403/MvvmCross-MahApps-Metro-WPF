@@ -1,4 +1,9 @@
-﻿using MahApps.Metro.Controls;
+﻿//
+// Source: https://github.com/MvvmCross/MvvmCross/blob/develop/MvvmCross/Platforms/Wpf/Views/MvxWindow.cs
+// From: https://stackoverflow.com/a/63314896
+//
+
+using MahApps.Metro.Controls;
 using MvvmCross;
 using MvvmCross.Binding.BindingContext;
 using MvvmCross.Platforms.Wpf.Views;
